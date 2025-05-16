@@ -99,3 +99,4 @@ C:\Users\Dominik\source\repos\ApiTestBarrels\ApiTestBarrels\obj\Debug\net8.0\ref
 C:\Users\Dominik\source\repos\ApiTestBarrels\ApiTestBarrels\obj\Debug\net8.0\ApiTestBarrels.pdb
 C:\Users\Dominik\source\repos\ApiTestBarrels\ApiTestBarrels\obj\Debug\net8.0\ApiTestBarrels.genruntimeconfig.cache
 C:\Users\Dominik\source\repos\ApiTestBarrels\ApiTestBarrels\obj\Debug\net8.0\ref\ApiTestBarrels.dll
+C:\Users\Dominik\source\repos\ApiTestBarrels\ApiTestBarrels\obj\Debug\net8.0\ApiTestBarrels.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiTestBarrels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca7402e45c7e599d7c721beab46b8aeb55f92645")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiTestBarrels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiTestBarrels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
