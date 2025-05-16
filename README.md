@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Automatizované testy API pro měření nečistot
 
 ## Popis projektu
@@ -54,3 +55,6 @@ Volitelně můžeš testy přesměrovat na jiné API pomocí: API_BASE_URL=https
 | 2  | `GetBarrelById_ShouldPass`            | Vrací 500 Internal Server Error při validním ID                | Serverová chyba                  
 | 3  | `DeleteFakeBarrel_ShouldReturn404`    | Vrací 500 místo očekávaného 404                                | Backend nevrací správný status  
 | 4  | `GetAllMeasurements_ShouldPass`       | Vrací False, i když bylo měření úspěšně vytvořeno              | Možné zpoždění nebo cacheování   
+=======
+# ApiTestBarrels
+>>>>>>> 0b7dbd2214dcfebb99b33c98a89980a4f461f004
